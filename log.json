@@ -1,99 +1,146 @@
 {
+    "week": 1,
     "bodyweight": 155,
     "trainingDays": [
         {
             "day": "10/7/2024",
             "exercises": [
                 {
-                    "name": "",
+                    "name": "Squat",
                     "sets": [
                         {
-                            "reps": 0,
-                            "weight": 0
+                            "reps": 5,
+                            "weight": 195
+                        },
+                        {
+                            "reps": 5,
+                            "weight": 195
+                        },
+                        {
+                            "reps": 5,
+                            "weight": 195
+                        }
+                    ]
+                },
+                {
+                    "name": "Bench",
+                    "sets": [
+                        {
+                            "reps": 6,
+                            "weight": 145
+                        },
+                        {
+                            "reps": 6,
+                            "weight": 145
+                        },
+                        {
+                            "reps": 6,
+                            "weight": 145
+                        }
+                    ]
+                },
+                {
+                    "name": "Deadlift",
+                    "sets": [
+                        {
+                            "reps": 5,
+                            "weight": 285
                         }
                     ]
                 }
             ]
         },
         {
-            "day": "Tuesday",
+            "day": "10/9/2024",
             "exercises": [
                 {
-                    "name": "",
+                    "name": "Squat",
                     "sets": [
                         {
-                            "reps": 0,
-                            "weight": 0
+                            "reps": 5,
+                            "weight": 200
+                        },
+                        {
+                            "reps": 5,
+                            "weight": 200
+                        },
+                        {
+                            "reps": 5,
+                            "weight": 200
+                        }
+                    ]
+                },
+                {
+                    "name": "Bench",
+                    "sets": [
+                        {
+                            "reps": 6,
+                            "weight": 150
+                        },
+                        {
+                            "reps": 6,
+                            "weight": 150
+                        },
+                        {
+                            "reps": 6,
+                            "weight": 150
+                        }
+                    ]
+                },
+                {
+                    "name": "Deadlift",
+                    "sets": [
+                        {
+                            "reps": 5,
+                            "weight": 290
                         }
                     ]
                 }
             ]
         },
         {
-            "day": "Wednesday",
+            "day": "10/11/2024",
             "exercises": [
                 {
-                    "name": "",
+                    "name": "Squat",
                     "sets": [
                         {
-                            "reps": 0,
-                            "weight": 0
+                            "reps": 5,
+                            "weight": 205
+                        },
+                        {
+                            "reps": 5,
+                            "weight": 205
+                        },
+                        {
+                            "reps": 5,
+                            "weight": 205
                         }
                     ]
-                }
-            ]
-        },
-        {
-            "day": "Thursday",
-            "exercises": [
+                },
                 {
-                    "name": "",
+                    "name": "Bench",
                     "sets": [
                         {
-                            "reps": 0,
-                            "weight": 0
+                            "reps": 5,
+                            "weight": 155
+                        },
+                        {
+                            "reps": 5,
+                            "weight": 155
+                        },
+                        {
+                            "reps": 5,
+                            "weight": 155
                         }
                     ]
-                }
-            ]
-        },
-        {
-            "day": "Friday",
-            "exercises": [
+                },
                 {
-                    "name": "",
+                    "name": "Deadlift",
                     "sets": [
                         {
-                            "reps": 0,
-                            "weight": 0
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "day": "Saturday",
-            "exercises": [
-                {
-                    "name": "",
-                    "sets": [
-                        {
-                            "reps": 0,
-                            "weight": 0
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "day": "Sunday",
-            "exercises": [
-                {
-                    "name": "",
-                    "sets": [
-                        {
-                            "reps": 0,
-                            "weight": 0
+                            "reps": 5,
+                            "weight": 295
                         }
                     ]
                 }
