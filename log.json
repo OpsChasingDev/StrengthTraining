@@ -1,146 +1,150 @@
 {
-    "week": 1,
-    "bodyweight": 155,
-    "trainingDays": [
+    "trainingWeeks": [
         {
-            "day": "10/7/2024",
-            "exercises": [
+            "week": 1,
+            "bodyweight": 155,
+            "trainingDays": [
                 {
-                    "name": "Squat",
-                    "sets": [
+                    "day": "10/7/2024",
+                    "exercises": [
                         {
-                            "reps": 5,
-                            "weight": 195
+                            "name": "Squat",
+                            "sets": [
+                                {
+                                    "reps": 5,
+                                    "weight": 195
+                                },
+                                {
+                                    "reps": 5,
+                                    "weight": 195
+                                },
+                                {
+                                    "reps": 5,
+                                    "weight": 195
+                                }
+                            ]
                         },
                         {
-                            "reps": 5,
-                            "weight": 195
+                            "name": "Bench",
+                            "sets": [
+                                {
+                                    "reps": 6,
+                                    "weight": 145
+                                },
+                                {
+                                    "reps": 6,
+                                    "weight": 145
+                                },
+                                {
+                                    "reps": 6,
+                                    "weight": 145
+                                }
+                            ]
                         },
                         {
-                            "reps": 5,
-                            "weight": 195
+                            "name": "Deadlift",
+                            "sets": [
+                                {
+                                    "reps": 5,
+                                    "weight": 285
+                                }
+                            ]
                         }
                     ]
                 },
                 {
-                    "name": "Bench",
-                    "sets": [
+                    "day": "10/9/2024",
+                    "exercises": [
                         {
-                            "reps": 6,
-                            "weight": 145
+                            "name": "Squat",
+                            "sets": [
+                                {
+                                    "reps": 5,
+                                    "weight": 200
+                                },
+                                {
+                                    "reps": 5,
+                                    "weight": 200
+                                },
+                                {
+                                    "reps": 5,
+                                    "weight": 200
+                                }
+                            ]
                         },
                         {
-                            "reps": 6,
-                            "weight": 145
+                            "name": "Bench",
+                            "sets": [
+                                {
+                                    "reps": 6,
+                                    "weight": 150
+                                },
+                                {
+                                    "reps": 6,
+                                    "weight": 150
+                                },
+                                {
+                                    "reps": 6,
+                                    "weight": 150
+                                }
+                            ]
                         },
                         {
-                            "reps": 6,
-                            "weight": 145
+                            "name": "Deadlift",
+                            "sets": [
+                                {
+                                    "reps": 5,
+                                    "weight": 290
+                                }
+                            ]
                         }
                     ]
                 },
                 {
-                    "name": "Deadlift",
-                    "sets": [
+                    "day": "10/11/2024",
+                    "exercises": [
                         {
-                            "reps": 5,
-                            "weight": 285
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "day": "10/9/2024",
-            "exercises": [
-                {
-                    "name": "Squat",
-                    "sets": [
-                        {
-                            "reps": 5,
-                            "weight": 200
+                            "name": "Squat",
+                            "sets": [
+                                {
+                                    "reps": 5,
+                                    "weight": 205
+                                },
+                                {
+                                    "reps": 5,
+                                    "weight": 205
+                                },
+                                {
+                                    "reps": 5,
+                                    "weight": 205
+                                }
+                            ]
                         },
                         {
-                            "reps": 5,
-                            "weight": 200
+                            "name": "Bench",
+                            "sets": [
+                                {
+                                    "reps": 5,
+                                    "weight": 155
+                                },
+                                {
+                                    "reps": 5,
+                                    "weight": 155
+                                },
+                                {
+                                    "reps": 5,
+                                    "weight": 155
+                                }
+                            ]
                         },
                         {
-                            "reps": 5,
-                            "weight": 200
-                        }
-                    ]
-                },
-                {
-                    "name": "Bench",
-                    "sets": [
-                        {
-                            "reps": 6,
-                            "weight": 150
-                        },
-                        {
-                            "reps": 6,
-                            "weight": 150
-                        },
-                        {
-                            "reps": 6,
-                            "weight": 150
-                        }
-                    ]
-                },
-                {
-                    "name": "Deadlift",
-                    "sets": [
-                        {
-                            "reps": 5,
-                            "weight": 290
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "day": "10/11/2024",
-            "exercises": [
-                {
-                    "name": "Squat",
-                    "sets": [
-                        {
-                            "reps": 5,
-                            "weight": 205
-                        },
-                        {
-                            "reps": 5,
-                            "weight": 205
-                        },
-                        {
-                            "reps": 5,
-                            "weight": 205
-                        }
-                    ]
-                },
-                {
-                    "name": "Bench",
-                    "sets": [
-                        {
-                            "reps": 5,
-                            "weight": 155
-                        },
-                        {
-                            "reps": 5,
-                            "weight": 155
-                        },
-                        {
-                            "reps": 5,
-                            "weight": 155
-                        }
-                    ]
-                },
-                {
-                    "name": "Deadlift",
-                    "sets": [
-                        {
-                            "reps": 5,
-                            "weight": 295
+                            "name": "Deadlift",
+                            "sets": [
+                                {
+                                    "reps": 5,
+                                    "weight": 295
+                                }
+                            ]
                         }
                     ]
                 }
@@ -148,3 +152,4 @@
         }
     ]
 }
+    
