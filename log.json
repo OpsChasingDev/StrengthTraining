@@ -149,6 +149,34 @@
                     ]
                 }
             ]
+        },
+        {
+            "week": 0,
+            "bodyweight": 0,
+            "trainingDays": [
+                {
+                    "day": "",
+                    "exercises": [
+                        {
+                            "name": "",
+                            "sets": [
+                                {
+                                    "reps": 0,
+                                    "weight": 0
+                                },
+                                {
+                                    "reps": 0,
+                                    "weight": 0
+                                },
+                                {
+                                    "reps": 0,
+                                    "weight": 0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }

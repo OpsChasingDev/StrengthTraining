@@ -1,8 +1,9 @@
 {
+    "week": 0,
     "bodyweight": 0,
     "trainingDays": [
         {
-            "day": "Monday",
+            "day": "",
             "exercises": [
                 {
                     "name": "",
@@ -10,87 +11,11 @@
                         {
                             "reps": 0,
                             "weight": 0
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "day": "Tuesday",
-            "exercises": [
-                {
-                    "name": "",
-                    "sets": [
+                        },
                         {
                             "reps": 0,
                             "weight": 0
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "day": "Wednesday",
-            "exercises": [
-                {
-                    "name": "",
-                    "sets": [
-                        {
-                            "reps": 0,
-                            "weight": 0
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "day": "Thursday",
-            "exercises": [
-                {
-                    "name": "",
-                    "sets": [
-                        {
-                            "reps": 0,
-                            "weight": 0
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "day": "Friday",
-            "exercises": [
-                {
-                    "name": "",
-                    "sets": [
-                        {
-                            "reps": 0,
-                            "weight": 0
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "day": "Saturday",
-            "exercises": [
-                {
-                    "name": "",
-                    "sets": [
-                        {
-                            "reps": 0,
-                            "weight": 0
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "day": "Sunday",
-            "exercises": [
-                {
-                    "name": "",
-                    "sets": [
+                        },
                         {
                             "reps": 0,
                             "weight": 0
